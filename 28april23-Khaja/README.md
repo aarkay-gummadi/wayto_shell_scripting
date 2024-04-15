@@ -9,7 +9,7 @@ More on Scripting
 -----------------
 
 * According to last classes, we have to script to install jenkins
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install-jenkins-java11.sh) for the script to install jenkins with java 11.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/28april23-Khaja/install-jenkins-java11.sh) for the script to install jenkins with java 11.
 ```
 sudo vi installjenkins.sh
 sudo chmod +x installjenkins.sh
@@ -26,7 +26,7 @@ sudo sh installjenkins.sh
 ![Preview](Images/ss4.png)
 
 * Below is the script to install jenkins on redhat as well as ubuntu systems
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install-jenkins.sh) for the script to install jenkins on both ubuntu and redhat.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/28april23-Khaja/install-jenkins.sh) for the script to install jenkins on both ubuntu and redhat.
 ```
 sudo vi installjenkinsmulti.sh
 sudo chmod +x installjenkinsmulti.sh
@@ -74,7 +74,7 @@ sudo ./installjenkinsmulti.sh
 
 ### Workout for the Exercise
 * ![Preview](Images/ss9.png)
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install%20a%26a%20cli.sh) for the script to install jenkins and awscli & azurecli on redhat, and also awscli and azurecli on ubuntu.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/28april23-Khaja/install%20a%26a%20cli.sh) for the script to install jenkins and awscli & azurecli on redhat, and also awscli and azurecli on ubuntu.
 
 * For redhat
 ![Preview](Images/ss12.png)
@@ -83,7 +83,7 @@ sudo ./installjenkinsmulti.sh
 ![Preview](Images/ss15.png)
 
 * The above its shows the error it can be resolved now.
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install%20a&a%20cli.sh) for the script changeset.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/28april23-Khaja/install%20a%26a%20cli.sh) for the script changeset.
 ![Preview](Images/ss16.png)
 
 * For ubuntu
