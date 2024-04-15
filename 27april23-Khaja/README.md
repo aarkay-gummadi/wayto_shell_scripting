@@ -12,7 +12,7 @@ Live Example
 
 * We have written two scripts
 * Shell Script
-    * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/diskspace.sh) for the script of shell.
+    * [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/diskspace.sh) for the script of shell.
 
 ```
 vi diskspace.sh
@@ -21,7 +21,7 @@ sh diskspace.sh
 ![Preview](Images/ss12.png)
 
 * Python script
-    * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/diskspace.py) for the script of python.
+    * [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/diskspace.py) for the script of python.
 
 ```
 vi diskspace.py
@@ -38,7 +38,7 @@ Approach - Part 1
 
 ### Lets write a script to install docker
 * Create a script (`installdocker.sh`) with following content 
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/installdocker.sh) for the script of installdocker.sh
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/installdocker.sh) for the script of installdocker.sh
 ![Preview](Images/ss7.png)
 ![Preview](Images/ss8.png)
 * It's showing error to resolve this 
@@ -64,7 +64,7 @@ sh installdocker.sh
 * Note: all the scripts will be run as a root user
 
 ### Workout for Exercise
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java11.sh) for the script of install jenkins with java 11 as a root user.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/jenkins-java11.sh) for the script of install jenkins with java 11 as a root user.
 
 ```
 vi jenkins-java11.sh
@@ -73,7 +73,7 @@ sh jenkins-java11.sh
 ![Preview](Images/ss1.png)
 ![Preview](Images/ss2.png)
 
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java17.sh) for the script of isntall jenkins with java 17 as a root user.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/jenkins-java17.sh) for the script of isntall jenkins with java 17 as a root user.
 
 ```
 vi jenkins-java17.sh
@@ -82,7 +82,7 @@ sh jenkins-java17.sh
 ![Preview](Images/ss3.png)
 ![Preview](Images/ss4.png)
 
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/install-kubeadm.sh) for the script of installing kubeadm as a root user.
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_shell_scripting/blob/main/27april23-Khaja/install-kubeadm.sh) for the script of installing kubeadm as a root user.
 
 ```
 vi install-kubeadm.sh
